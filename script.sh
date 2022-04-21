@@ -1,0 +1,1 @@
+curl -s https://stepik.org:443/api/users/467882692 | jq '.users[].id'
